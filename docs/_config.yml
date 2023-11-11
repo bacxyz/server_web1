@@ -1,8 +1,8 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+url: "https://bacxyz.github.io/server_web1/"
+baseurl: "server_web1"
 siteIcon: /media/android-chrome-192x192.png
 siteYear: 2020
 siteFooterlink: /about
